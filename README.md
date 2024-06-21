@@ -1,4 +1,4 @@
-# final_major_project
+# aid for blind
 
 A new Flutter project.
 
